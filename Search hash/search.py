@@ -18,17 +18,17 @@ if __name__ == '__main__':
     sheet = wb.sheet_by_index(0)
     rows=sheet.nrows
     cols=sheet.ncols
-    op=None
+    opt=None
     if(len(inp)==64):
         print("Searching data in database")
         opt=sha256(rows,cols,inp)
-        print(op)
+        print(opt)
         if(opt==None):
             print("Hash not found in database")
     elif(len(inp)==32):
         print("Searching data in database")
         op=md5(rows,cols,inp)
-        print(op)
+        print(opt)
         if(opt==None):
             print("Hash not found in database")
     else:
