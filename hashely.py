@@ -1,5 +1,4 @@
 import xlrd
-#import xlwt
 import hashlib
 def hash():
     print("Hash in which format?")
