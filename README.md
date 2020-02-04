@@ -1,3 +1,5 @@
+https://forthebadge.com/images/featured/featured-built-with-love.svg
+
 Project hashely is mainly for hashing and dehashing a string.
 
 In this i have used inbuilt python library called hashlib to hash a string.
