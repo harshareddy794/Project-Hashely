@@ -61,5 +61,5 @@ if __name__ == '__main__':
             dehash(rows,cols)
         else:
             print("Enter correct option")
-        except:
-            print("Enter option correctly")
+    except:
+        print("Enter option correctly")
