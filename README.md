@@ -20,6 +20,6 @@ if hash exist then it will return the corresponding string if not exits it will 
 
 4.After all the required libraries are installed sucessfully we can run script.
  
-================================THANK YOU=========================
+============================THANK YOU=========================
 
 copyright @harshareddy794
