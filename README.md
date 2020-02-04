@@ -8,6 +8,10 @@ This script will iterate through all the hases  in the xls file and search wheth
 
 if hash exist then it will return the corresponding string if not exits it will show data not found.
 
+Note:
+Script is developed to dehash 6 lakhs hashes but because of github storage is limited to 25mb per file.
+So it is decreased to only 60,000 hashes
+
 ==============Steps to follow before running the script==========
 
 1.Open terminal/cmd.
