@@ -1,3 +1,5 @@
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 Project hashely is mainly for hashing and dehashing a string.
 
 In this i have used inbuilt python library called hashlib to hash a string.
