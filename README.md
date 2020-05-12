@@ -4,6 +4,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
+## Introduction
 Project hashely is mainly for hashing and dehashing a string.
 
 In this i have used inbuilt python library called hashlib to hash a string.
@@ -18,7 +19,7 @@ Note:
 Script is developed to dehash 6 lakhs hashes but because of github storage is limited to 25mb per file.
 So it is decreased to only 60,000 hashes
 
-==============Steps to follow before running the script==========
+## Setup
 
 1.Open terminal/cmd.
 
@@ -29,7 +30,8 @@ So it is decreased to only 60,000 hashes
     pip3 install -r"requirements.txt"
 
 4.After all the required libraries are installed sucessfully we can run script.
- 
-============================THANK YOU=========================
+
+## Aknowladegment
+Thank you everyone for making this happen
 
 copyright @harshareddy794
